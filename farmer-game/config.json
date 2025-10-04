@@ -1,0 +1,22 @@
+{
+  "levels": [
+    {
+      "goal": 15,
+      "timeLimit": 60,
+      "spawnRate": 0.8,
+      "crowRate": 5
+    },
+    {
+      "goal": 30,
+      "timeLimit": 50,
+      "spawnRate": 0.6,
+      "crowRate": 4
+    },
+    {
+      "goal": 45,
+      "timeLimit": 40,
+      "spawnRate": 0.4,
+      "crowRate": 3
+    }
+  ]
+}
